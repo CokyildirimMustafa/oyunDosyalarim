@@ -6,15 +6,49 @@
     "link": "https://redspid.itch.io/magic-world"
   },
   {
-    "isim": "Ninja Adventure",
-    "aciklama": "İkinci oyunun açıklaması burada.",
+    "isim": "Pişti",
+    "aciklama": "Keyifli bir pişti deneyimine hazır mısın ?",
     "resim": "icon/oyun2.png",
-    "link": "https://redspid.itch.io/ninja-adventure"
+    "link": "https://redspid.itch.io/pisti"
   },
   {
-    "isim": "Sky Defender",
-    "aciklama": "Üçüncü oyunun açıklaması burada.",
+    "isim": "A Young Warrior",
+    "aciklama": "Henüz bir çocukken köyü karanlık varlıklar tarafından yok edilen genç savaşçı, intikam ve adalet için yola çıkar. Yolculuğu, platformlar arasında süren zorlu bir tırmanışı simgeler: hem fiziksel olarak zirveye hem de ruhsal olarak olgunluğa ulaşma yolculuğu.
+
+Her platform, yeni bir düşman, yeni bir sınav ve yeni bir kazanımı temsil eder. Güçlendikçe hem savaş stilin gelişir hem de geçmişinle yüzleşmeye daha çok yaklaşırsın.",
     "resim": "icon/oyun3.png",
-    "link": "https://redspid.itch.io/sky-defender"
+    "link": "https://redspid.itch.io/a-young-warrior"
+  }
+  ,
+  {
+    "isim": "Marketia",
+    "aciklama": "Marketia, oyuncuların bir markette alışveriş deneyimini eğlenceli ve stratejik bir maceraya dönüştürdüğü bir oyundur. Oyuncular, çeşitli karakterlerden birini seçerek kendilerine verilen alışveriş listesindeki ürünleri market reyonlarından toplar, engelleri aşar ve ürünleri kasa noktasına ulaştırarak alışverişi tamamlamaya çalışırlar.",
+    "resim": "icon/oyun3.png",
+    "link": "https://redspid.itch.io/marketia"
+  }
+  
+  ,
+  {
+    "isim": "Beyond Redemption",
+    "aciklama": "Gözlerini açtığında bir şeylerin farklı olduğunu hemen fark ediyorsun… tenin yok, nabzın atmıyor, kalbin suskun. Bir iskeletsin.
+
+Zifiri karanlık bir zindandasın. Neresi olduğunu, kim olduğunu ya da neden burada olduğunu hatırlamıyorsun. Tek bildiğin, bu yerden çıkman gerektiği. Ama zindan senin gibi sıradan ruhları değil, suçlarını affedemeyenleri hapseder...
+“Beyond Redemption” – Affedilemeyenlerin diyarı.
+
+Her kemikte geçmişinin yankıları, her adımda günahlarının izleri var. Zindan yaşayan bir varlık gibi, seni gözlüyor, seni yönlendiriyor, seni deniyor. Zamanla hatıralarını parça parça toplarken, bu zindandan kurtulmanın tek yolunun kendi geçmişinle yüzleşmek olduğunu fark edeceksin.",
+    "resim": "icon/oyun3.png",
+    "link": "https://redspid.itch.io/beyond-redemption"
+  }
+,
+  {
+    "isim": "Destroy Of Darkness",
+    "aciklama": "Bir zamanlar doğanın en huzurlu köşesi olan Aeloria Ormanı, gölgelerin içinden gelen vahşi yaratıklar tarafından ele geçirildi. Ağaçlar artık fısıldamıyor, kuşlar şarkı söylemiyor. Geceler gündüzden uzun, rüzgar bile korkuyla esiyor.
+
+Sen, ormanın kadim koruyucularından geriye kalan son kişisin. Görevin basit ama tehlikeli:
+"Karanlığı yok et ve ormanı eski günlerine döndür."
+
+Ancak bu sadece fiziksel bir savaş değil… Vahşiler bir zamanlar ormanda yaşayan canlıların bozulmuş formları. Her düşman, bir zamanlar bir dosttu. Her adımda seçim yapmalı, kurtarılabilir olanı kurtarmalı, geri dönülemez olanı yok etmelisin.",
+    "resim": "icon/oyun2.png",
+    "link": "https://redspid.itch.io/destroyofdarkness"
   }
 ]
