@@ -1,0 +1,20 @@
+[
+  {
+    "isim": "Magic World",
+    "aciklama": "İlk oyunun açıklaması burada.",
+    "resim": "icon/oyun1.png",
+    "link": "https://redspid.itch.io/magic-world"
+  },
+  {
+    "isim": "Ninja Adventure",
+    "aciklama": "İkinci oyunun açıklaması burada.",
+    "resim": "icon/oyun2.png",
+    "link": "https://redspid.itch.io/ninja-adventure"
+  },
+  {
+    "isim": "Sky Defender",
+    "aciklama": "Üçüncü oyunun açıklaması burada.",
+    "resim": "icon/oyun3.png",
+    "link": "https://redspid.itch.io/sky-defender"
+  }
+]
